@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <firstname>Лобов</firstname>
+        <lastname>Владимир</lastname>
+        <secondname>Вадимович</secondname>
+        <position>programmer</position>
+        <phoneList>
+            <phone>66-12</phone>
+        </phoneList>
+        <emailList>
+            <email>test@test.ru</email>
+            <email>peter@brown.ru</email>
+        </emailList>
+
+    </user>
+    <user id="2">
+        <firstname>Пономарев</firstname>
+        <lastname>Василий</lastname>
+        <secondname>Сергеевич</secondname>
+        <position>accountant</position>
+        <emailList>
+            <email>test@test.ru</email>
+        </emailList>
+    </user>
+    <user id="3">
+        <firstname>Борноволокова</firstname>
+        <lastname>Людмила</lastname>
+        <secondname>Васильевна</secondname>
+        <position>teacher</position>
+        <phoneList>
+            <phone>66-42</phone>
+            <phone>66-74</phone>
+        </phoneList>
+
+    </user>
+</users>
